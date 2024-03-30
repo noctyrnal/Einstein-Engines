@@ -14,7 +14,8 @@
       "name": "bolted_unlit"
     },
     {
-      "name": "closed"
+      "name": "closed",
+      "directions": 4
     },
     {
       "name": "closed_unlit"
